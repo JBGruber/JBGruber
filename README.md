@@ -13,7 +13,7 @@ I'm present on a couple of different platform, in case you want to reach or foll
 
 - 🟦 [@jbgruber.bsky.social](https://bsky.app/profile/jbgruber.bsky.social)
 - :elephant: <a rel="me" href="https://fosstodon.org/@JBGruber">@JBGruber@fosstodon.org</a>
-- :bird: [@JohannesBGruber](https://twitter.com/JohannesBGruber)
+- ~:bird: [@JohannesBGruber](https://twitter.com/JohannesBGruber)~ (legacy account)
 - :question: [https://stackoverflow.com/users/5028841/jbgruber](https://stackoverflow.com/users/5028841/jbgruber)
 - 📫 [J.B.Gruber@uva.nl](mailto:J.B.Gruber@uva.nl)
 
@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Johannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBGruber&theme=panda&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)

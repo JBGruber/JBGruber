@@ -11,7 +11,7 @@ In 2021, I passed my PhD in Politics at the University of Glasgow.
 
 I'm present on a couple of different platforms, in case you want to reach or follow me:
 
-- 🟦 [@jbgruber.bsky.social](https://bsky.app/profile/jbgruber.bsky.social)
+- 🦋 [@jbgruber.bsky.social](https://bsky.app/profile/jbgruber.bsky.social)
 - :elephant: <a rel="me" href="https://fosstodon.org/@JBGruber">@JBGruber@fosstodon.org</a>
 - ~:bird: [@JohannesBGruber](https://twitter.com/JohannesBGruber)~ (legacy account)
 - :question: [https://stackoverflow.com/users/5028841/jbgruber](https://stackoverflow.com/users/5028841/jbgruber)

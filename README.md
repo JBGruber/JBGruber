@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Post-Doc Researcher at  the Department of Communication Science at the University of Amsterdam, working on the [NEWSFLOWS project](https://newsflows.eu/).
+I am a Post-Doc Researcher at Vrije Universiteit (VU) Amsterdam, working on the [NEWSFLOWS project](https://newsflows.eu/) (based at the University of Amsterdam until February 2024).
 Until September 2023 I worked at the  Department of Communication Science at Vrije Universiteit Amsterdam working on the [OPTED project](https://opted.eu/team/wp7-pre-processing-storage-and-data-sharing/johannes-b-gruber/) and [AmCAT (Amsterdam Conent Analyis Toolkit](https://amcat.nl/).
 Since April, I also started to work on the [NEWSFLOWS project](https://newsflows.eu/) at the Department of Communication Science at the University of Amsterdam.
 Previously, I worked as Post-Doc Researcher at the Chair for Digital Democracy at the European New School of Digital Studies (ENS), European University Viadrina Foundation Frankfurt (Oder).
